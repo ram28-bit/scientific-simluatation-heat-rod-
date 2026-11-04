@@ -1,0 +1,11 @@
+.DS_Store
+.venv/
+.vscode/
+heat_equation
+heat_equation_openmp
+openmp_test
+integration
+simulation
+compare_methods
+ode
+openmp_practice
